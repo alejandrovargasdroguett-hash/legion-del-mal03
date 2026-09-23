@@ -1,0 +1,54 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Mystique"
+nombre_real: "Raven Darkhölme"
+universo: Marvel
+rango: "Jefa de infiltración"
+estado: activo
+
+perfil:
+  identidad_publica: "Ninguna. Mystique puede ser quien quiera, cuando quiera."
+  motivacion: "Supervivencia. La libertad de ser quien quiera sin que nadie la controle. Y si de paso destruye a quienes la persiguen, mejor."
+  frase_celebre: "La gente confía en lo que ve. Ese es su error."
+
+habilidades:
+  - Cambio de forma perfecto (cualquier persona, voz, huellas dactilares)
+  - Combate cuerpo a cuerpo experto (múltiples artes marciales)
+  - Envejecimiento extremadamente lento (siglos de experiencia)
+  - Maestra del espionaje y la manipulación
+  - Hacker competente (entrenada por Brainiac)
+  - Habla 14 idiomas con acento nativo perfecto
+
+debilidades:
+  - No puede replicar poderes (si se transforma en Superman, se ve como él pero no vuela)
+  - Escáneres térmicos avanzados pueden detectar su forma real
+  - El Lazo de la Verdad de Wonder Woman la obliga a revelar su identidad
+  - Su lealtad es a sí misma primero, a la Legión segundo
+
+recursos:
+  - 23 identidades falsas activas en 15 países
+  - Red de contactos en agencias de inteligencia (CIA, MI6, S.H.I.E.L.D.)
+  - Acceso a la base de datos de Brainiac (perfiles de cada héroe)
+  - Laboratorio personal de maquillaje y prótesis (para emergencias sin poderes)
+
+rol_en_la_legion: |
+  Mystique es los ojos y oídos de la Legión dentro del mundo
+  de los héroes. Ha infiltrado S.H.I.E.L.D. tres veces, la
+  Torre Stark una vez, y actualmente tiene una identidad activa
+  en el Departamento de Policía de Gotham. Toda la inteligencia
+  de la carpeta /inteligencia pasa por ella antes de archivarse.
+
+rivalidad_principal: "X-Men (especialmente Wolverine y Rogue)"
+guarida_asignada: "Ubicación propia no revelada"
+misiones_completadas: 22
+misiones_fallidas: 1
+
+notas_confidenciales: |
+  Mystique es el miembro más efectivo pero también el más
+  impredecible. Tiene información sobre Batman que no ha
+  compartido con el Consejo. Brainiac ha solicitado auditar
+  sus accesos a los sistemas. Lex Luthor denegó la solicitud:
+  "Si la vigilamos demasiado, la perderemos."
+  Mantener vigilada discretamente.

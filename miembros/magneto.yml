@@ -1,0 +1,55 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Magneto"
+nombre_real: "Erik Lehnsherr"
+universo: Marvel
+rango: "Segundo al mando"
+estado: activo
+
+perfil:
+  identidad_publica: "Líder del movimiento mutante. Buscado internacionalmente."
+  motivacion: "Asegurar la supervivencia y supremacía de los mutantes. Si para eso hay que derribar a los héroes y a los gobiernos, que así sea."
+  frase_celebre: "La paz nunca fue una opción."
+
+habilidades:
+  - Control absoluto del magnetismo y campos electromagnéticos
+  - Puede levantar estadios, submarinos y puentes enteros
+  - Escudo magnético personal (detiene balas, misiles y la mayoría de ataques)
+  - Vuelo mediante manipulación magnética
+  - Estratega militar con décadas de experiencia
+  - Casco anti-telepático (bloquea a Charles Xavier, Martian Manhunter y cualquier telepata)
+
+debilidades:
+  - Su causa mutante a veces entra en conflicto con los objetivos de la Legión
+  - Materiales no metálicos lo ponen en desventaja (madera, plástico, hielo)
+  - Su pasado traumático puede ser usado para manipularlo emocionalmente
+  - Respeta demasiado a Charles Xavier (podría dudar si X-Men se involucran)
+
+recursos:
+  - Hermandad de Mutantes (red de agentes leales en todo el mundo)
+  - Tecnología de Genosha (isla-nación mutante)
+  - Reservas de Vibranium y Adamantium
+  - Su propio casco (el activo más valioso después de sus poderes)
+
+rol_en_la_legion: |
+  Magneto es la fuerza militar de la Legión. Donde Lex planifica,
+  Magneto ejecuta. Su poder sobre el metal lo hace invaluable en
+  operaciones de campo, construcción de bases y extracción de
+  emergencia. Aceptó unirse a la Legión porque reconoce que los
+  héroes de ambos universos unidos son demasiado para cualquier
+  villano solo. "Hasta yo necesito aliados."
+
+rivalidad_principal: "X-Men (especialmente Charles Xavier)"
+guarida_asignada: "Fortaleza Prohibida"
+misiones_completadas: 11
+misiones_fallidas: 2
+
+notas_confidenciales: |
+  Magneto es leal a la Legión mientras los objetivos se alineen
+  con la causa mutante. Si alguna misión amenaza a los mutantes,
+  se irá sin dudarlo. Lex Luthor lo sabe y diseña las misiones
+  para que siempre incluyan un beneficio para los mutantes.
+  Tensión creciente con Brainiac: Magneto no confía en una IA
+  que "recopila datos de todos, incluidos nosotros."

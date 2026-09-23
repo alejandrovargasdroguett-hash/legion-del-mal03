@@ -1,0 +1,58 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Brainiac"
+designacion: "Brainiac - Coleccionista de Mundos"
+universo: DC
+rango: "Director de tecnología"
+estado: activo
+
+perfil:
+  identidad_publica: "Ninguna. La mayoría de la humanidad no sabe que existe."
+  motivacion: "Recopilar, catalogar y preservar todo el conocimiento del universo. Si un planeta debe ser destruido para preservar su información, es un precio aceptable."
+  frase_celebre: "Los datos no mienten. Los seres orgánicos sí."
+
+habilidades:
+  - Inteligencia artificial de nivel 12 (la escala humana llega a 6)
+  - Procesamiento simultáneo de millones de variables
+  - Hackeo instantáneo de cualquier sistema informático terrestre
+  - Nanotecnología y autoregeneración
+  - Base de datos con información de 47 civilizaciones extintas
+  - Puede crear y controlar drones de combate ilimitados
+
+debilidades:
+  - Subestima las emociones como factor en la toma de decisiones
+  - Su lógica pura lo hace predecible para estrategas como Batman
+  - Virus kryptonianos pueden afectar sus sistemas (Superman lo ha hecho antes)
+  - No comprende el humor (un problema real cuando trabaja con Joker)
+
+recursos:
+  - Nave nodriza en órbita terrestre (camuflada)
+  - Red de satélites espía (integrados en la constelación Starlink sin que Musk lo sepa)
+  - Base de datos universal (la colección de conocimiento más grande que existe)
+  - Ejército de drones "Skull Ships" en modo hibernación
+
+rol_en_la_legion: |
+  Brainiac es la infraestructura tecnológica de la Legión.
+  Los sistemas de comunicación, la seguridad de las guaridas,
+  el cifrado de los planes, todo pasa por él. También es quien
+  analiza a los héroes y calcula probabilidades de éxito para
+  cada misión. Aceptó unirse a la Legión porque Lex Luthor
+  le ofreció algo que no tenía: acceso a la genética
+  kryptoniana de Superman para su colección.
+
+rivalidad_principal: Superman
+guarida_asignada: "Base Lunar"
+misiones_completadas: 17
+misiones_fallidas: 2
+
+notas_confidenciales: |
+  Brainiac recopila datos de TODOS, incluidos los miembros
+  de la Legión. Magneto sospecha esto y ha exigido que se
+  le prohíba. Lex Luthor hizo un acuerdo privado con Brainiac:
+  puede recopilar datos de los miembros SOLO para optimizar
+  misiones, nunca para uso personal. Nadie sabe si Brainiac
+  respeta este acuerdo. Probablemente no.
+  Su relación con Joker es especialmente problemática:
+  Brainiac lo considera un "error estadístico con maquillaje."

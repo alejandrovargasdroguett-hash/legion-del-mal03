@@ -1,0 +1,54 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Lex Luthor"
+universo: DC
+rango: "Líder Supremo"
+estado: activo
+
+perfil:
+  identidad_publica: "CEO de LexCorp, multimillonario, filántropo (según él)"
+  motivacion: "Demostrar que la humanidad no necesita a Superman ni a ningún ser con poderes. El mundo debe ser gobernado por la mente humana más brillante: la suya."
+  frase_celebre: "No necesito superpoderes. Tengo algo mejor: un plan."
+
+habilidades:
+  - Intelecto nivel genio (considerado la mente humana más brillante del planeta)
+  - Recursos financieros ilimitados (LexCorp)
+  - Estratega político y militar
+  - Dominio de tecnología alienígena (especialmente kryptoniana)
+  - Manipulación mediática y opinión pública
+  - Piloto de trajes de combate powered armor
+
+debilidades:
+  - Obsesión con Superman que a veces nubla su juicio estratégico
+  - Ego desmedido (no acepta que sus planes fallen por su culpa)
+  - Su identidad pública como CEO lo hace rastreable
+  - Subestima a los héroes que considera "inferiores" a Superman
+
+recursos:
+  - LexCorp (empresa Fortune 500, fachada de financiación)
+  - Arsenal de Kryptonita (la reserva más grande del planeta)
+  - Traje de combate Warsuit Mark VII
+  - Red de contactos políticos y militares
+  - Laboratorios secretos en 14 países
+
+rol_en_la_legion: |
+  Fundador y financista. Lex concibió la Legión del Mal cuando
+  se dio cuenta de que ni él solo podía contra Superman, y que
+  los villanos de Marvel tenían el mismo problema con los Vengadores.
+  "Si los héroes se unen, nosotros también." Controla los fondos,
+  aprueba las misiones y tiene la última palabra en el Consejo.
+  Nadie se une a la Legión sin su aprobación.
+
+rivalidad_principal: Superman
+guarida_asignada: "Fortaleza Prohibida"
+misiones_completadas: 14
+misiones_fallidas: 4
+
+notas_confidenciales: |
+  Lex es el único miembro que puede controlar al Joker (la mayoría
+  del tiempo). Su relación con Magneto es de respeto mutuo pero
+  tensión constante: ambos creen que deberían liderar. Mantener
+  el equilibrio entre ambos es prioridad. Si Lex cae, la Legión
+  se fragmenta.
