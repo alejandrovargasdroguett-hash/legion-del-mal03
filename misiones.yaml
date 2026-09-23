@@ -1,0 +1,68 @@
+# ============================================
+# REGISTRO GLOBAL DE MISIONES - LEGIÓN DEL MAL
+# ============================================
+# Estados: planificación | activa | completada | fallida | abortada
+# Prioridad: baja | media | alta | crítica
+# ============================================
+
+misiones:
+  - nombre: "Operación Banco Mundial"
+    codigo: OBM-001
+    estado: activa
+    prioridad: crítica
+    lider: Lex Luthor
+    equipo:
+      - Mystique
+      - Brainiac
+      - Catwoman
+    objetivo: "Hackear las bóvedas digitales del Banco Mundial"
+    amenazas: "Batman, Iron Man (sistemas de seguridad Stark)"
+    fecha_inicio: 2025-03-15
+    fecha_limite: 2025-06-01
+    archivo_plan: planes/robo-banco-mundial.md
+
+  - nombre: "Proyecto Satélite Congelador"
+    codigo: PSC-002
+    estado: planificación
+    prioridad: alta
+    lider: Brainiac
+    equipo:
+      - Doctor Doom
+      - Magneto
+    objetivo: "Congelar las capitales del mundo desde el espacio"
+    amenazas: "Superman (puede destruir el satélite), Thor (control climático)"
+    fecha_inicio: 2025-04-01
+    fecha_limite: 2025-12-31
+    archivo_plan: planes/satelite-congelador.md
+
+  - nombre: "Proyecto Krypton"
+    codigo: PKR-003
+    estado: planificación
+    prioridad: media
+    lider: Mystique
+    equipo:
+      - Brainiac
+      - Loki
+    objetivo: "Clonar a Superman y reemplazarlo en la Liga de la Justicia"
+    amenazas: "Batman (detective), Wonder Woman (Lazo de la Verdad)"
+    fecha_inicio: null
+    fecha_limite: null
+    archivo_plan: planes/clonar-a-superman.md
+
+# Registro de misiones pasadas
+historial:
+  - nombre: "Robo del Museo de Metrópolis"
+    codigo: RMM-000
+    estado: fallida
+    prioridad: alta
+    lider: Joker
+    motivo_fallo: "Joker decidió explicarle todo el plan a Batman mientras lo tenía atrapado. Batman escapó."
+    leccion_aprendida: "Se añadió la Regla #5 al manifiesto"
+
+  - nombre: "Secuestro del Helicarrier de S.H.I.E.L.D."
+    codigo: SSH-000
+    estado: fallida
+    prioridad: crítica
+    lider: Loki
+    motivo_fallo: "Loki subestimó a los Vengadores. Otra vez."
+    leccion_aprendida: "No asignar misiones en solitario contra equipos completos"
