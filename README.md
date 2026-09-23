@@ -39,7 +39,7 @@ npm install
 
 ## 🚀 Usage
 
-Give examples of how the project can be used. Include standard commands or code snippets.
+Give examples of how the project can be used. Include standard commands or code snippets. Se le agrega uso 
 
 ```javascript
 const helper = require('project-name');
@@ -72,3 +72,9 @@ Use a table to define environmental variables or options cleanly.
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+# Members
+
+Alejandro Vargas Droguett
+
+El Jocker
