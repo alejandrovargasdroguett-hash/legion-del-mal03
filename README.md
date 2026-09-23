@@ -75,6 +75,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 # Members
 
-Alejandro Vargas Droguett
+1- Alejandro Vargas Droguett
 
-El Jocker
+2- El Jocker cambio
+
+3- Thanos
