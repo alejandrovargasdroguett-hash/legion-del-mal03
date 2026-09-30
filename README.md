@@ -1,3 +1,4 @@
+![Estático](https://img.shields.io/badge/Legion--del-mal---Activa-red)
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
