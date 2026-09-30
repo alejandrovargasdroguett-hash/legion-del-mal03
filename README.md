@@ -7,7 +7,8 @@
 ![Issues](https://img.shields.io/github/issues/alejandrovargasdroguett-hash/legion-del-mal03)
 ![Último commit](https://img.shields.io/github/last-commit/alejandrovargasdroguett-hash/legion-del-mal03)
 ![Licencia](https://img.shields.io/github/license/alejandrovargasdroguett-hash/legion-del-mal03)
-# 🦹‍♂️ La Legión del Mal - desde remoto
+
+# 🦹‍♂️ La Legión del Mal - desde remoto y local
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
